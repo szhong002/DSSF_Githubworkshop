@@ -24,6 +24,7 @@
 
 **Commit** (n.)
 : A discrete set of changes to a project that have been packaged and labeled.
+: A follow-up commit
 
 ## Markdown Syntax
 
